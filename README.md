@@ -24,10 +24,10 @@ Once Anaconda is installed, open the Anaconda Prompt (search for "Anaconda Promp
 
 ## 2. Create the Virtual Environment
 
-Run the following command to create a new virtual environment named `MATH637` with Python 3.10:
+Run the following command to create a new virtual environment named `MATH6373` with Python 3.10:
 
 ```bash
-conda create --name MATH637 python=3.10 --no-default-packages
+conda create --name MATH6373 python=3.10 --no-default-packages
 ```
 ## 3. Activate the Virtual Environment
 To activate the newly created environment, run the following command:
